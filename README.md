@@ -187,7 +187,7 @@ Understanding these risks is essential for building resilient security programs 
 
 ---
 
-LinkedIn:[
-X: [
+LinkedIn:[https://www.linkedin.com/feed/update/urn:li:activity:7472985933215141901/]
+
 
 `#CyberSecurity` `#ECCouncil` `#CyberTalks` `#Deepfakes` `#ArtificialIntelligence` `#AISecurity` `#SocialEngineering` `#ThreatIntelligence` `#BlueTeam` `#InfoSec`
